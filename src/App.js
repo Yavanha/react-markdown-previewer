@@ -1,7 +1,7 @@
 import "./App.css"
 
 import React from "react";
-import { marked } from "marked";
+import Home from "./components/Home/Home";
 
 export default class App extends React.Component { 
 
@@ -11,8 +11,11 @@ export default class App extends React.Component {
   }
 
   render() {
-    return (<div>
-    </div>)
+    return (
+      <main className="main-container">
+        <Home />
+      </main>
+    )
   }
 
 }
