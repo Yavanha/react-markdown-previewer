@@ -1,0 +1,12 @@
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 1.5rem;
+    border: 1px solid #000000;
+    border-bottom: none;
+    background-color: rgb(74, 163, 163);
+}
+
+.toolbar-title {
+    font-weight: bold;
+}

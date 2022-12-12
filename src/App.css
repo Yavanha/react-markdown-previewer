@@ -17,9 +17,23 @@ body {
 }
 
 
+
+
+button {
+  background-color: transparent;
+  border: none;
+}
+
+button >  i {
+  font-size: 2rem;
+  font-weight: normal;
+}
+
 .main-container {
   background-color: rgb(135, 181, 181);
   min-height: 100vh;
   display: flex;
-  justify-content: center;
+  padding: 2rem;
 }
+
+

@@ -14,6 +14,7 @@ export default class App extends React.Component {
     return (
       <main className="main-container">
         <Home />
+        
       </main>
     )
   }

@@ -1,0 +1,19 @@
+.editor-container {
+    flex: 0 0 60%
+}
+
+.editor {
+    width: 100%;
+    border: none;
+    min-height: 30rem;
+    resize: vertical;
+    border: 1px solid #000000;
+    border-top: none;
+    overflow-y: auto ;
+    background-color: rgb(192, 216, 216);
+    
+}
+
+.editor:focus-visible {
+    outline: none;
+}
