@@ -17,7 +17,9 @@ body {
 }
 
 
-
+i {
+  cursor: pointer;
+}
 
 button {
   background-color: transparent;
@@ -32,7 +34,6 @@ button >  i {
 .main-container {
   background-color: rgb(135, 181, 181);
   min-height: 100vh;
-  display: flex;
   padding: 2rem;
 }
 

@@ -1,0 +1,17 @@
+
+
+.previewer {
+    width: 100%;
+    border: none;
+    min-height: 60rem;
+    resize: vertical;
+    border: 1px solid #000000;
+    border-top: none;
+    padding: 2rem;
+    background-color: rgb(192, 216, 216);
+}
+
+.previewer h1 {
+    margin-bottom: 3rem;
+}
+

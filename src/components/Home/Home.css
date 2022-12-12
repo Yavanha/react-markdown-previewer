@@ -2,8 +2,13 @@
     display: flex;
     flex: 0 0 100%;
     justify-content: center;
+    gap: 3rem;
 }
 
+
+.home-container > * {
+    flex: 0 0 40%;
+}
 
 
 

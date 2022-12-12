@@ -1,11 +1,8 @@
-.editor-container {
-    flex: 0 0 60%
-}
 
 .editor {
     width: 100%;
     border: none;
-    min-height: 30rem;
+    min-height: 60rem;
     resize: vertical;
     border: 1px solid #000000;
     border-top: none;
